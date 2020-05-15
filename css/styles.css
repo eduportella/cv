@@ -1,0 +1,22 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  /* como por default usa border vamos tirar mas colocar um height
+  para aparecer corretamente da cor que queremos! os valores default
+  sao pelo browser mesmo tem no www3 schools*/
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
+}
